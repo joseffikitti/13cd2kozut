@@ -10,3 +10,5 @@ Ez azt jelenti, hogy az adatbázisban a regiok nevű táblából minden adatot l
 Ha sikeres a lekérdezés, akkor az eredményt JSON formában visszaküldi a kliensnek (pl. a frontendnek).
 Ha hiba történik, akkor a hibaüzenetet küldi vissza.
 
+ajefdlcsjdb
+
